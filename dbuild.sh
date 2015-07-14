@@ -1,2 +1,2 @@
 #!/bin/bash
-docker build -t addiscent/phpfpm:0.0.1 .
+docker build -t raddiscentis/php-fpm:0.0.1 .
